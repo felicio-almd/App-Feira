@@ -1,34 +1,34 @@
 Aplicativo de Compras em uma Feirinha de Frutas
 ==============================================
 
-Este é um projeto de um aplicativo em Java para facilitar as compras em uma feirinha de frutas. O objetivo é fornecer uma lista das frutas disponíveis na feira, juntamente com seus respectivos valores, e permitir que o usuário realize suas compras de forma simples e rápida. Além disso, o aplicativo também permite dar uma gorjeta ao dono do app como forma de agradecimento.
+Este ï¿½ um projeto de um aplicativo em Java para facilitar as compras em uma feirinha de frutas. O objetivo ï¿½ fornecer uma lista das frutas disponï¿½veis na feira, juntamente com seus respectivos valores, e permitir que o usuï¿½rio realize suas compras de forma simples e rï¿½pida. Alï¿½m disso, o aplicativo tambï¿½m permite dar uma gorjeta ao dono do app como forma de agradecimento.
 
 Funcionalidades
 ---------------
-- Lista de frutas: O aplicativo apresenta uma lista de frutas disponíveis na feirinha, permitindo ao usuário visualizar os nomes das frutas e seus respectivos preços.
-- Adição ao carrinho: O usuário pode adicionar as frutas desejadas ao carrinho de compras, informando a quantidade desejada de cada fruta.
-- Cálculo do valor total: O aplicativo calcula automaticamente o valor total da compra, somando o valor de cada fruta selecionada, considerando a quantidade informada pelo usuário.
-- Gorjeta ao dono do app: O usuário tem a opção de dar uma gorjeta ao dono do aplicativo como forma de reconhecimento pelo seu trabalho. O valor da gorjeta é opcional e pode ser definido pelo usuário.
-- Finalização da compra: Após selecionar as frutas e a gorjeta (se desejar), o usuário pode finalizar a compra, recebendo um resumo dos itens selecionados, o valor total da compra e o valor total a ser pago considerando a gorjeta.
+- Lista de frutas: O aplicativo apresenta uma lista de frutas disponï¿½veis na feirinha, permitindo ao usuï¿½rio visualizar os nomes das frutas e seus respectivos preï¿½os.
+- Adiï¿½ï¿½o ao carrinho: O usuï¿½rio pode adicionar as frutas desejadas ao carrinho de compras, informando a quantidade desejada de cada fruta.
+- Cï¿½lculo do valor total: O aplicativo calcula automaticamente o valor total da compra, somando o valor de cada fruta selecionada, considerando a quantidade informada pelo usuï¿½rio.
+- Gorjeta ao dono do app: O usuï¿½rio tem a opï¿½ï¿½o de dar uma gorjeta ao dono do aplicativo como forma de reconhecimento pelo seu trabalho. O valor da gorjeta ï¿½ opcional e pode ser definido pelo usuï¿½rio.
+- Finalizaï¿½ï¿½o da compra: Apï¿½s selecionar as frutas e a gorjeta (se desejar), o usuï¿½rio pode finalizar a compra, recebendo um resumo dos itens selecionados, o valor total da compra e o valor total a ser pago considerando a gorjeta.
 
 Requisitos
 -----------
-Para executar o aplicativo, é necessário ter instalado:
-- Java Development Kit (JDK): versão 8 ou superior
-- Ambiente de desenvolvimento integrado (IDE) compatível com Java, como Eclipse ou IntelliJ IDEA
+Para executar o aplicativo, ï¿½ necessï¿½rio ter instalado:
+- Java Development Kit (JDK): versï¿½o 8 ou superior
+- Ambiente de desenvolvimento integrado (IDE) compatï¿½vel com Java, como Eclipse ou IntelliJ IDEA
 
 Como executar o aplicativo
 -------------------------
-1. Faça o download ou clone este repositório em seu computador.
+1. Faï¿½a o download ou clone este repositï¿½rio em seu computador.
 2. Abra o projeto em seu ambiente de desenvolvimento integrado (IDE).
 3. Certifique-se de que o JDK esteja configurado corretamente em sua IDE.
-4. Navegue até o arquivo principal do aplicativo, geralmente denominado `Main.java`.
+4. Navegue atï¿½ o arquivo principal do aplicativo, geralmente denominado `Main.java`.
 5. Execute o arquivo `Main.java` para iniciar o aplicativo.
-6. Siga as instruções apresentadas na interface do aplicativo para selecionar as frutas, informar a quantidade desejada e, se desejar, adicionar uma gorjeta.
-7. Após finalizar a compra, o aplicativo exibirá um resumo dos itens selecionados, o valor total da compra e o valor total a ser pago considerando a gorjeta.
+6. Siga as instruï¿½ï¿½es apresentadas na interface do aplicativo para selecionar as frutas, informar a quantidade desejada e, se desejar, adicionar uma gorjeta.
+7. Apï¿½s finalizar a compra, o aplicativo exibirï¿½ um resumo dos itens selecionados, o valor total da compra e o valor total a ser pago considerando a gorjeta.
 
 Aproveite suas compras na feirinha de frutas!
 
 Autor
 ------
-Este projeto foi desenvolvido por Felício Almeida. Você pode entrar em contato comigo por meio do seguinte endereço de e-mail: feliciorar@gmail.com.
+Este projeto foi desenvolvido por Felï¿½cio Almeida. Vocï¿½ pode entrar em contato comigo por meio do seguinte endereï¿½o de e-mail: feliciorar@gmail.com.
