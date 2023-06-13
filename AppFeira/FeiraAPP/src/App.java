@@ -1,3 +1,8 @@
+/*Codigo base do programa sem retorno funcional nem 
+ valores sendo utilizados, backup caso der erro em outros codigos */
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

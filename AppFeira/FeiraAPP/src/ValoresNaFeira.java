@@ -1,3 +1,7 @@
+/*Codigo com tentativa de mudança para funcionar os valores de cada produto vendido, não da resultado esperado quando o código é executado */
+
+
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

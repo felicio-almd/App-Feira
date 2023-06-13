@@ -1,8 +1,13 @@
+// Codigo com a feira funcional um pouco modificado do inicial e realizando as compras
+// porem não finalizado com retorno de valores.
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class App {
+public class AppMod {
     public static void main(String[] args) {
         List<String> listaFeira = new ArrayList<>();
         listaFeira.add("laranja");
